@@ -1,0 +1,6 @@
+# EP.16 未能归档的链接（2026-08-06）
+
+- [增长黑客](https://book.douban.com/subject/26541801/) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [专访 Same.new：三位 00 后以「网页复制」切入 AI 开发赛道，4 个月实现 300 万美金 ARR](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247508538&idx=1&sn=20bcfd47c7e0883c17fd3fc429a90970) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [16 个月、45 万资金投入，一款「基于情侣 IM 互动的 AI 社交产品」的创业失败复盘](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247517897&idx=1&sn=7e8eb22f35a17cab0c2038d3f2976ecc&chksm=c1b84ad4b25edddbad04b1bc25e284710bfe5c62e96d572c0700b5a8f8f38895c6bd3aa6c52e&mpshare=1&scene=1&srcid=0720DHkWlRriWRsbZediFrjh&sharer_shareinfo=164c62131545ffa23fcd4c522e69f89f&sharer_shareinfo_first=164c62131545ffa23fcd4c522e69f89f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [腾讯投资的 Get笔记（得到旗下）被腾讯举报了](https://mp.weixin.qq.com/s?__biz=MjM5NjQyMjE1NA==&mid=2650741799&idx=1&sn=118e35dd365b1b3713670ce4e48a78de&chksm=bf7c4b7855272a4b99ae8fef4dcf80dbe3ee80b0a4dffbca944bbefc989ab63b44d0431d92ae&mpshare=1&scene=1&srcid=0723e6RfXDLgAlHtN66mk8tn&sharer_shareinfo=c0a4f1fc9a9245aff357508ba81db664&sharer_shareinfo_first=c0a4f1fc9a9245aff357508ba81db664) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
