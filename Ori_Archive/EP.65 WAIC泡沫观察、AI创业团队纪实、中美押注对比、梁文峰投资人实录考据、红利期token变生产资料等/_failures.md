@@ -1,0 +1,14 @@
+# EP.65 未能归档的链接（2026-08-05）
+
+- [旧金山的讲台，上海的展台：中美 AI 各自在押什么](https://mp.weixin.qq.com/s?__biz=MzY4NTMyNDc0Mw==&mid=2247483980&idx=1&sn=c848bc8e6767bcc45be657bede927149&chksm=f21aa2b1fac528fca0c73dca72ca201a98320888c77c2fccd5bcf971cdd109a1ffe2a92b1c70&mpshare=1&scene=1&srcid=0722iakgSZ7QG41aWMpTDVcI&sharer_shareinfo=5188669406f769ae6d4420e2c6344adc&sharer_shareinfo_first=bcb0b43aac4b32e4ef532fa152e17159) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [梁文锋四小时投资人会议实录](https://mp.weixin.qq.com/s?__biz=MzYzNTA3NTgwNQ==&mid=2247484342&idx=1&sn=29aa89b2273c2d2eccdfc77b92a3b35e&chksm=f1ef9e768d2b604fae251f322aa1d335f6777d2c7ee93849d03e61794e54ecc816bdadd12dd2&mpshare=1&scene=1&srcid=07221jcImu52OWM4crnmxK6b&sharer_shareinfo=95ecd0550432f49ca90efdb0b0565ad7&sharer_shareinfo_first=d01ae07cb57c564be1d0d9e83b185aaf) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [第一篇](https://web.okjike.com/u/edbc72d7-6ada-4ae1-9ae9-7591fbc8584d/post/6a617aec54aae0885eae8063) — ego-browser 回退转换后正文过短
+- [人生的塞尔达时期：日均 40 亿 Token 的那一周](https://mp.weixin.qq.com/s?__biz=MzU3NDgwOTEzOQ==&mid=2247485025&idx=1&sn=35f8d783a6141d0b17c9b109f5561435&chksm=fcc0b8b35adec43cbc44c8d049b4144f8c00885181c38dac9b851b306a1a2984f5309d76a262&mpshare=1&scene=1&srcid=07220Tn8uplYWoQnko3iF6nl&sharer_shareinfo=cd66bdd74dd806d65fc47dc677ca6d91&sharer_shareinfo_first=cd66bdd74dd806d65fc47dc677ca6d91) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [社群](https://zerodaybook.mikecrm.com/F10LaP5) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a2a22ef3eedf1f4b268ce94) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [在 WAIC 地下一层找机会的年轻人：光鲜是过去，眼下是生存](https://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&mid=2247517497&idx=1&sn=18db78220175e2eb44a205a44ba6770d) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [智谱缺席，曲曲来了，WAIC 的 11 个意料之外](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247500223&idx=1&sn=e8f0c94ac13754b96c4e47b71cdf5777&chksm=c042f2ff256e4edaa54c8101d77f28089404ee3fa287b2b020a2bdf2a23669661e24f2a50b37&mpshare=1&scene=1&srcid=0720gC61JUnfeUIgl3Utiswp&sharer_shareinfo=f6fea88fc03f3a26845da257d3a6deb7&sharer_shareinfo_first=f6fea88fc03f3a26845da257d3a6deb7) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 圈的 Crypto 黑帮](https://mp.weixin.qq.com/s?__biz=Mzg4MTcwOTE5Mg==&mid=2247488737&idx=1&sn=8108fe492057a260935d826bb5bc9047) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [错过智谱上亿期权的人](https://mp.weixin.qq.com/s/87FnU3NwNJimemI0Kp6hnQ) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [当文科生扑腾在 AI 的汪洋大海](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652368628&idx=1&sn=be896e4e372b207fba402f3863bcb0c1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我在旧金山一场创业活动上，听到了硅谷最不性感但最真实的需求](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247494894&idx=1&sn=ba5e3ae10f0863ac1cedc7065afe53b8) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
