@@ -1,0 +1,22 @@
+# EP.23 未能归档的链接（2026-08-06）
+
+- [花一万元植入 DeepSeek，一场没有终点的 GEO 流量游戏](https://36kr.com/p/3453363864819332?f=rss) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [Monday.com：以小博大，从「超级表格」到企业软件颠覆者](https://mp.weixin.qq.com/s?__biz=MzkxODczOTM0OQ==&mid=2247492169&idx=1&sn=a88022ecda0957501d4154e3c8fc7437) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 高研院 0 期同学刘胜男：一家咨询公司的 AI 探索之路](https://mp.weixin.qq.com/s?__biz=Mzk0MTUzMDIzMA==&mid=2247487135&idx=2&sn=9319e1cbce50c848086623a341baa6bc) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [揭秘 Claude Code 榜一大哥：一个 AI 创业者如何把工具用到极致｜对话刘小排](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649097912&idx=1&sn=c4f8bfcde27f666c8d1dd6f323b07d74) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [躺着学 AI 雅思程之铎：一年时间内注册用户达 26 万，我们是如何做到的？](https://mp.weixin.qq.com/s?__biz=MzU1Mjc4NjM4Mg==&mid=2247581349&idx=1&sn=8fd4099fbe194ac778732eeda47fc7a0&chksm=fa4be5f5a5715ba0459f0ed142d66bba5d8bcc01122cbb22715744df1848799c82bbdfb60a82&mpshare=1&scene=1&srcid=0904kgTqycq5yRbTloYTtKCQ&sharer_shareinfo=f223095803d59523a1279be60609841f&sharer_shareinfo_first=f223095803d59523a1279be60609841f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [万字长文：从 TalkAI 到 Midoo，AI Agent 能终结语言学习的「反人性」吗？](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247509522&idx=1&sn=68e4cb957acc4606ae0d613a9822aac1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Middo 的另一篇访谈稿](https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&mid=2650673519&idx=1&sn=0758298c5a87537f241183036e5e5278) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [别谈「全面 AI 转型」，要搞「单点 AI 爆破](https://mp.weixin.qq.com/s/gfpjSVwRFKR9wk0jI6HVcQ) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [2025 AI 独角兽成长榜背后的赢家逻辑](https://mp.weixin.qq.com/s?__biz=MzkyOTY5MzIwNw==&mid=2247487844&idx=1&sn=ac12ecda69d1b1484dbf01bc3622afd2) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [国内外 AI 大厂重押，初创梭哈，谁能凭「记忆」成为下一个「DeepSeek」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650989570&idx=1&sn=cd44ce84172128e5c0f7395244324c36) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [蚂蚁即将上线通用 Agent](https://mp.weixin.qq.com/s?__biz=Mzk0NTYzNDQ5NQ==&mid=2247512445&idx=1&sn=83f9d3aa9e9050deae7838acd10c2846) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [深度长文 AI 一键生成：实测字节扣子空间新功能](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247823627&idx=2&sn=c332f5def0e137f0cf3442ed59785dc6) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [闽南「材料狂人」，要用 AI 做「万能钥匙](https://mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650653122&idx=1&sn=8d1dfef63cdefa38ad41af57bd284c7e) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 不再甘当打工仔：全球首家 AI 原生影视帝国如何用 1.1 亿美元颠覆好莱坞](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247489589&idx=1&sn=7c1da1c32c0cc4ea7f7ece8e950fa746) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [对话多点数智倪艳军：仓储物流先行，全面布局 AI 零售](https://mp.weixin.qq.com/s?__biz=MTkwNDMzMTcwMQ==&mid=2651970250&idx=1&sn=7249a4c077de341ec4b395ceb602d08a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [华人创始人硅谷闯关实录：千万美元 ARR 背后的增长、争议与梦想](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDAyNQ==&mid=2652310296&idx=1&sn=4050d6ca2aee8ff37752ac5a29ebb255) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我的无聊时光](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649872930&idx=1&sn=e9b79b921769424db5a80ad72b3d3ae0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [饭圈女孩，冲在抵制 AI 第一线](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497537&idx=1&sn=edf1e025027d3324d5123323abf216e0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [那个在工地上预测晚霞的人](https://mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653093152&idx=1&sn=5d569cd10d3639c342ab19a29dff80ee) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我研发出了主体思想 AI](https://mp.weixin.qq.com/s?__biz=MzI1OTA1NjU5OA==&mid=2247487114&idx=1&sn=094f95546f84bb2589f61b0de7bfe3a5) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
