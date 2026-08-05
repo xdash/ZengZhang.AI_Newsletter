@@ -1,0 +1,23 @@
+# EP.05 未能归档的链接（2026-08-06）
+
+- [Dia 创始人专访，](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247515876&idx=1&sn=d312ec1b634d953343eeecf290e85838&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [千亿 AI 玩具市场的爆发前夜](https://mp.weixin.qq.com/s/nNhSS2RfsdDCGqQvQFzQug) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 个体户，月入三五万](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497174&idx=1&sn=3a293a04510fb198fd44b985c4347bd2&chksm=c0d6500f4c3cbf2ac752cb19b2da1502fdb480d3630d1f0092d0458605ac835aefa3cefd1381&mpshare=1&scene=1&srcid=04296sJrYJB55fzGewQGuOsB&sharer_shareinfo=38008f672cb318528850ed5fdfdd8556&sharer_shareinfo_first=38008f672cb318528850ed5fdfdd8556) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [@曲凯 分享了五条 AI 投资洞察](https://m.okjike.com/originalPosts/6811b458dc6b6d4853a8dd68) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [增长黑客的 AI 之道（YouTube）](https://www.youtube.com/watch?v=lpfwygIjQ0Y) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [高效盘点了 AI 在游戏行业落地的最新动态](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649092695&idx=1&sn=b49c39783ed726f85ed3de399c55a2ed&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [分享接班三年来的管理经验](https://mp.weixin.qq.com/s?src=11&timestamp=1746018536&ver=5962&signature=7WJcihmfpbuZChalzxY3RmHGBRZsb4KwXIOUmbIM0P0cFKjikYzdB8urxXV1sors4Iy2jmSkkXkQ3XHpAQZvCzp4vmTovXwIwoEOSm*5uzuPmw1eGSFL9BdjTOZxH*PS&new=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [九多肉多 CMO 聊如何用 4000+ 矩阵账号，线下引流 1800 万单](https://mp.weixin.qq.com/s?__biz=Mzk0MTUzMDIzMA==&mid=2247485986&idx=2&sn=73b4d87f502f551cbb1e0c8de89bd2fc&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [9 块 9 的 AI 洗头店在全国遍地开花，可能更多是割韭菜的噱头](https://mp.weixin.qq.com/s?src=11&timestamp=1746019852&ver=5962&signature=dSy7AgCWNf3SwFbJJkaAbs1JsQi3jnORnAjptHbK1TC79V28S3NjpHYIsPVj2YDGXjIWf2an5k7TRjQFbJfBIeDBPigFmG*-A2LxMlgtwD8MMUwdGa3VuU56cfBU5iQJ&new=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [国内最早入局 AI 大模型的公司首次出现亏损，净利润下跌 226.8%](https://mp.weixin.qq.com/s?src=11&timestamp=1746019085&ver=5962&signature=7WJcihmfpbuZChalzxY3RmHGBRZsb4KwXIOUmbIM0P1HiJw63mrnjNYRLqCa1ixYQGVtg478klSRJ*gy-LoR-NPiCXGRfOYRwc1H4NGcTuXUWjxWzMh2FuXLAxHL5w2X&new=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [张一甲：2025 中国 AI 新风向 30 条判断](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247542785&idx=1&sn=781087bac8a6b9e3e936ebca657dca70&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [这期 LKs 体验去多邻国上班](https://www.bilibili.com/video/BV1uu4m1A76Y/) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [CB Insights 最新发布了《2025 年 AI 100》榜单](https://mp.weixin.qq.com/s?__biz=MzkyOTY5MzIwNw==&mid=2247486394&idx=1&sn=1582be685c630da60045af275cefba58&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [腾讯 TEG 架构大变革，成立大语言模型部和多模态模型部](https://mp.weixin.qq.com/s?__biz=Mzg5Njc3MDcyNQ==&mid=2247532755&idx=1&sn=7bf11a309095ef0255aa3e4d2d63cc98&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [苹果近期拆分 AI 团队，将 Siri 和机器人小组分别交由不同负责人管理](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652589994&idx=2&sn=847393e5aae8c9d024713919a633f74f&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Benchmark 合伙人 Sarah 退出 GP，亲自上手 Vibe Coding 全力押注 AI](https://mp.weixin.qq.com/s?__biz=MzIyMDA3MjMwNw==&mid=2455856378&idx=1&sn=e593a725db7e6b358573d5b68fcf496b&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Meta 的 CTO Andrew Bosworth 最近在与 a16z 的增长合伙人 David George 的对话中](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247487293&idx=1&sn=eb674708e091b229273f6736c99fd9b8&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [新版《国家智能制造标准体系建设指南](https://mp.weixin.qq.com/s?__biz=MzAwODQ3NzIwMQ==&mid=2650503443&idx=2&sn=745d4ecf0b1618f8af1256f29550a9bc&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [撰写了一篇 264 页的 Agent 论文](https://mp.weixin.qq.com/s?__biz=Mzk0NTYzNDQ5NQ==&mid=2247510015&idx=1&sn=e07c89d4bc7fa0690402374f73f4b0d6&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [斯坦福大学 CS25 课程最新一期](https://mp.weixin.qq.com/s?src=11&timestamp=1746019699&ver=5962&signature=LRLzbYUdtUN3WfQmZIuSoyEh0D1-B-tZOu8KNqHjCSPTezAZcLX8L78ARIhP9EMfcN55qitUOUaUnns6mra*-NNzRVw*ocX9vnkerWRrcdm60o8BqsMopEm8WaRXf2qi&new=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [苏黎世大学在 Reddit 热门辩论版块的秘密 AI 实验](https://mp.weixin.qq.com/s?src=11&timestamp=1746021166&ver=5962&signature=EQw6XHVA9fXEyAXz4nrPZhLweZq4zzktlN-A-vtQq9EPk6ZtIIUdlaPG27Uk51VmLm12N3Xc5zV6pmwLfgnd0RbGXlx5yMjMbrJMKMDa8EtPG0ZZn6D8wFM5d0llAB37&new=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
