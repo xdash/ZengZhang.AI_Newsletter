@@ -1,0 +1,23 @@
+# EP.09 未能归档的链接（2026-08-06）
+
+- [亚洲第一 AI 情感陪伴应用 LoveyDovey 的 6 个成功原因](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649093722&idx=1&sn=363aed81c3119f0a3a874794a83db9df) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [细数 31 家 AI 应用小团队，平均 20 人、人均创收 279 万美元](https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&mid=2650670921&idx=1&sn=6c21c36d69d45187af345a6e90dc8ff1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [深度分析 Lovable：拆解 6 个月实现 5000 万美金 ARR 的方法论](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247487620&idx=1&sn=37406a56b140ad85d5ecf292a6185c8e) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 应用第一股」多邻国二次创业，市值增长 6 倍](https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzI5OA==&mid=2247484453&idx=1&sn=31f0fa45982811ab7cadb20a30ec7384) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [对话 FateTell 创始人西元 Levy：AI 可测天命，但人生无法被算尽](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ0MzkxOA==&mid=2247483799&idx=1&sn=ad8a4623a48710447348ee005808768b&chksm=c415c8971a241af151051a818be0e888d1162c3ee28b2531cdc5e5a61c796fce281bea72aef8&mpshare=1&scene=1&srcid=0527mJnZI0AAqcpbwl6MEEVk&sharer_shareinfo=e49d649aec07082e3a805c92ceac8755&sharer_shareinfo_first=e49d649aec07082e3a805c92ceac8755) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [启师傅会客厅」高朋满座的第五期的图文回顾](https://mp.weixin.qq.com/s/kDx3wZR6OEipOon6-pRoGg) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Eric Smith 通过 AutoShorts AI 工具在 9 个月内实现月收入 93,000 美元](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247487719&idx=1&sn=4c23000967acd388a31f0472cc743085) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Medeo 创始团队播客访谈](https://www.xiaoyuzhoufm.com/episode/683311dd41ef875a12213697) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [AI 能否帮我们做出更好的投资决策？](https://www.xiaoyuzhoufm.com/episode/680ef46d93320d6c5c834ff4) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [优秀 AI 产品 UX 设计的五大关键](https://mp.weixin.qq.com/s?__biz=Mzg3NTk3MzQ4MQ==&mid=2247508354&idx=1&sn=f39965eae7db44bf9c33cfe1009f26d2) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [蜂巢科技」夏勇峰聊 AI 百镜大战](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649093589&idx=1&sn=0bfd507f6b7f93bab1c8a6d0055f39d3) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [蚂蚁集团 CEO 韩歆毅首次详解 AI 战略](https://www.tmtpost.com/7579038.html) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [苹果 AI 的崩塌真相：从乔布斯愿景，到高管失误的困局](http://www.geekpark.net/news/349746) — ego-browser 回退抓取也未取得正文
+- [Meta 重组 AI 团队应对 Llama 危机](https://mp.weixin.qq.com/s/yzfNRAJyITdHN4xskNCSWg) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [中国 AI Agent 行业图谱 v1.0](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247518000&idx=1&sn=494bdff24f2bf06a99d19928363e42c4) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [中国 AIGC 行业图谱 V5.0](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247518003&idx=1&sn=24eac1caac37f5a98699250883265932) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [2025 年中国 AI 发展白皮书：AI 驱动商业智能决策，企业数字化转型的智脑引擎（附下载）](https://mp.weixin.qq.com/s?__biz=MzAwODQ3NzIwMQ==&mid=2650503463&idx=1&sn=02bc4e9d72e35bf3584e617cd1a696a1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [腾讯人创业 AI 管理工具失败复盘](https://mp.weixin.qq.com/s/MH18fZ5XghUPEd1Dsy1TXQ) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [哈佛商业评论最新 3500 人实验](https://mp.weixin.qq.com/s/uN8G03J3vCQIdNVabA3WNg) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [最新研究表明出现了新的 AI 代码攻击方式](https://mp.weixin.qq.com/s/3SZaL7PzR0wFrjfQ25zlEQ) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [中国短剧出海模式的算法红利正在消退](https://mp.weixin.qq.com/s?__biz=MjM5ODM0OTcwMQ==&mid=2651962571&idx=2&sn=79408e38b6c832e6dc837db4f15fb6e9) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
