@@ -1,0 +1,13 @@
+# EP.12 未能归档的链接（2026-08-06）
+
+- [停更半年后，他靠 AI《致富经》涨粉 50 万、商单收入翻番](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648134889&idx=1&sn=d45460493da74005f5c49d41aeace572) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 转型访谈：放弃国企工作，创办一人企业，每月收入四五万](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650990602&idx=1&sn=d4c4eeb620ed3115e7ebb6c11e47557d&chksm=bdfee4e7610f996d7c21dd7af63e0179f277abefa40bf9d925097b0c4a7c7332ce67fdcc38f3&mpshare=1&scene=1&srcid=0622iLoOYPBNbXkiyzsK0hl4&sharer_shareinfo=e55a67af7ad00efca293d009c7d87daf&sharer_shareinfo_first=e55a67af7ad00efca293d009c7d87daf) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [特稿：反大厂、一人创业，杭州良渚的 AI 新生态](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653700225&idx=1&sn=7e61f5f939e8b4ad57d8df458c7d61a2) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [从 240 家 AI 软件公司的定价数据，我看到了 5 个关键趋势](https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&mid=2650671443&idx=2&sn=489b3cec520c6e716c33a81e83033d5c) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 带出的商场柜姐，正在成为「李佳琦](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497314&idx=1&sn=6204a72648ae980ff04dd67758a5598f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [拆剧，内行人已经开始 AI 拉片了](https://mp.weixin.qq.com/s?__biz=MzkyNjU5MzI1OA==&mid=2247568173&idx=1&sn=2727d0c5b19d4d581dcbe7e8922137b5&chksm=c3482e42d5cc099c6f41ccde56f503cee296cbab4cf7097a5c7175c6f295c8abd847abe6b217&mpshare=1&scene=1&srcid=0625y1hflbiJZeSeYbwVTg7z&sharer_shareinfo=60f4e3ce79cb5abfc1703f73e7c3c790&sharer_shareinfo_first=60f4e3ce79cb5abfc1703f73e7c3c790) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [这个阴阳怪气的郭敬明《小时代1》专业拉片](https://www.bilibili.com/video/BV1yACpYHEtb/) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [想给外公写回忆录的女孩，AI 创业了](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497286&idx=1&sn=324ea63ca11fb6e535d6ab429e78f4f2&chksm=c0f70f0eaadb152f7e17463c8988bf6f84460f1da119802882a1e1a72948ac7c69f46cf90454&mpshare=1&scene=1&srcid=0621anuK2c15nte1aThvJUP4&sharer_shareinfo=e92ccf0a7bc9a88f918a447586992bb1&sharer_shareinfo_first=e92ccf0a7bc9a88f918a447586992bb1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 时代的创作者：五种人生，一个信念](https://mp.weixin.qq.com/s?__biz=MzkzMTI3MTUyMw==&mid=2247514994&idx=1&sn=a75589f56a104693df63ce29a4e3d113) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [斯坦福最新研究：硅谷 AI 创业潮，其实是一场大型的资源错配](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691558862&idx=1&sn=1bd2641d737e2e228bcfc74e04018aa6) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [出门问问转型 AI 硬件求生](https://36kr.com/p/3351843209425801?f=rss) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
