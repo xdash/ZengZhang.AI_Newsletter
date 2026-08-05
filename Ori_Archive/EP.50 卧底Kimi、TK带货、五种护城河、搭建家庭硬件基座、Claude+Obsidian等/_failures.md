@@ -1,0 +1,10 @@
+# EP.50 未能归档的链接（2026-08-05）
+
+- [Podwise](https://podwise.ai?s_aff=XDash) — ego-browser 回退转换后正文过短
+- [我之前录制过一期 YouTube 视频来介绍它](https://www.youtube.com/watch?v=9dl5ZKvDdMI) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [Agent 的家：如何在 AI 时代搭建个人家庭硬件基座（硬核）](https://sspai.com/post/108064) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [我用 AI 做了一条 TK 带货视频，成本 3 块钱，卖了 5 万美金](https://mp.weixin.qq.com/s?__biz=MzI5Mzk5MzA5Mg==&mid=2247487152&idx=1&sn=454fa6b944c0adaea7a44e93b0bcd28f&chksm=ed9dd31dafb200f41ee30971610f94945fdf258269b835536800a404f485d55c0875b6d7f045&mpshare=1&scene=1&srcid=0402iwMpI3D56Izo3BOcMpsb&sharer_shareinfo=032a28a5ff3450cad5c6ec075dbc405f&sharer_shareinfo_first=032a28a5ff3450cad5c6ec075dbc405f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [如何在 AI 时代，找回你被埋没的创造力](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681166&idx=1&sn=aa7bbb97a0efb2a95828bd0d73ce0fa2&chksm=f18e7985e42c0534ef102c025f2d49eb20e8470a665ab68e29a6ec02628d9f7e5c0b4a1ce3a6&mpshare=1&scene=1&srcid=0331WDxL9dEh9XqlZVp5XhbA&sharer_shareinfo=40f707e695e632347d8495451c8a660a&sharer_shareinfo_first=40f707e695e632347d8495451c8a660a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [卧底」Kimi 的 100 小时](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653247814&idx=1&sn=b1dd98d6293e532b5f673ecd83dbd401&chksm=4f957af0c7c3ce1aedbd6891275e4f0d45689d3d64bf20ca529be148bedbf4fd9fb39d0e17a9&mpshare=1&scene=1&srcid=0402ctEGsFLrC6jN6uFSIwwa&sharer_shareinfo=c4e4420d968299fc37c3bafe84e85553&sharer_shareinfo_first=eaa42d44ab291b4ca4227fd885f10482) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [华语乐坛里，到底还剩多少活人？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654649691&idx=1&sn=b52147235265516adfea8a08cf412c6c) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [医生说没救了，但亿万富翁不信，用 AI 战胜了癌症并开源全部诊疗数据](https://www.mittrchina.com/news/detail/16170) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
