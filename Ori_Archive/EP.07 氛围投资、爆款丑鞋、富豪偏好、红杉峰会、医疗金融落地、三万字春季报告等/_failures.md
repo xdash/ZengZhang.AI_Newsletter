@@ -1,0 +1,31 @@
+# EP.07 未能归档的链接（2026-08-06）
+
+- [对话 RockFlow 创始人 Vakee：杀死一切 App，从股神少女到 AI 赌徒](https://mp.weixin.qq.com/s/ZhDSIS0-bcvc2MejSN8dig) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [氛围投资产品 Xynth 的创业之路](https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247495505&idx=1&sn=386551a5afe530ef9061e79a5e0a4e71&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [专访刘世奇：如何用 AI 设计丑拖鞋，一年卖了 3000 万](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647670770&idx=1&sn=7493cdc94850741a9809b7436bbfc030&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [【播客】每天有一万人在「独响」上和 AI「一起睡觉](https://www.xiaoyuzhoufm.com/episode/68209c82b7c8a9962c886840) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [当 DeepSeek 遇上百年医院：解码 AI 医疗落地实践](https://www.tmtpost.com/7565507.html) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [十字路口的深度评测](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649093007&idx=1&sn=feb41f75ad5033332fe0abd6800a2862&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [卡兹克全流程实测](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647671036&idx=1&sn=21f4cf60b26ecdf9dae03ce4520d52bb&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [分析 5000 家创业公司，寻找 AI 超级创始人的成功密码](https://mp.weixin.qq.com/s?__biz=MzA3MDU4ODkyNg==&mid=2247509705&idx=1&sn=fbbdc0e3e097e02b21ad4afb05d3895e) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [CapWords 产品介绍+开发者披露产品内幕](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648133625&idx=1&sn=9860ee3a09785287a9d8855c90c9ce24) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [25 岁从被 YC 拒两次，到 10 亿美金估值，AI 赋能小商家的逆袭之路](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247487510&idx=1&sn=eca5da049df4620470e936a05c5e2fcf) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI Agent 产品如何定价？一篇文章说清楚四种 AI 产品的付费模式](https://mp.weixin.qq.com/s?__biz=MzA4NDQ3MzE0OA==&mid=2651179609&idx=1&sn=b35edae7cc1502fa3c05239ca43cfc3f&chksm=851e8a7780e570ff6e55417bab20ca24f75e6af3e02ae754fad0f3c1732207a86706c3a77fde&mpshare=1&scene=1&srcid=0514h97823zULZ8acAXBRBhA&sharer_shareinfo=ae378735911a0ce7e72866998d891041&sharer_shareinfo_first=ae378735911a0ce7e72866998d891041) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 在医疗和金融领域的落地与创新圆桌探讨](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247517960&idx=1&sn=353842490ec8222962167f60fd0cf2e8) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [新榜 AI 一周热门](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648133666&idx=1&sn=cb3f97f1461007faca1b983aea3ad48d&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [五月 AI 产品上新盘点](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247516187&idx=1&sn=101ddce391e71d50bfd64e665fc8b58b&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [四月份中国出海产品的 ARR/活跃度](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247517944&idx=1&sn=0c570af781526ee17ba259d04064d468&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [白鲸出海的 AI 教育洞察第 4 期](https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&mid=2650670505&idx=1&sn=0d39fe3bbc01a1b2ffb53ff1c61a64a9&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [红杉 AI 峰会 150 位创始人共识浮现：AI 不再卖工具，而是卖收益](https://mp.weixin.qq.com/s/7atu0CxodoiCipRcppkgoQ) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [YouTube 原视频链接](https://www.youtube.com/watch?v=v9JBMnxuPX8) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [AI Ascend 2025 完整分享播放列表](https://www.youtube.com/playlist?list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [全球 AI 应用行业 2025 春季报告丨三万字完整版](https://mp.weixin.qq.com/s?__biz=Mzk0MTczNzE1MQ==&mid=2247485376&idx=1&sn=751e7b9ea8beac20bc1117847c08e6f2&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [OpenAI 发布的企业落地报告](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/ai-in-the-enterprise/ai-in-the-enterprise.pdf) — ego-browser 回退抓取也未取得正文
+- [AI 明星公司背后的隐秘投资网络](https://mp.weixin.qq.com/s?__biz=MzA3MDU4ODkyNg==&mid=2247509684&idx=1&sn=4fa0431230f895b672f9a9ecc68fd291) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [45 家美国头部孵化器详细介绍](http://mp.weixin.qq.com/s?__biz=Mzg4Nzc3NjY0Mw==&mid=2247492805&idx=1&sn=27dd139f837ff5d883c225897223446a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 营销：场景创新与内容生态升级](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247517861&idx=2&sn=0ae78e860f282452c8f2a429ffd03bc4&subscene=0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Kimi 悄然布局 AI+医疗 领域](https://36kr.com/p/3290880683078790?f=rss) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [得到联合创始人：AI 时代，老板要做好什么准备？](https://mp.weixin.qq.com/s?__biz=Mzk0MTUzMDIzMA==&mid=2247486047&idx=1&sn=d540fde8d3de10b7ae0f81ef924b6538&chksm=c321baf6b7ccf9566e341ed5d6a268223ed7039ee5d6e1cafd302fd98887a928d0f97ba5d944&mpshare=1&scene=1&srcid=0504r3XWOOF2e5VSVr0JO7LO&sharer_shareinfo=abf9c4075053c9d473b4fa37c2ae9390&sharer_shareinfo_first=abf9c4075053c9d473b4fa37c2ae9390&hit_product=1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我被 AI 骗了](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653231045&idx=1&sn=6630757bf119c9e75d2886d8c3859161) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [晚点对话印奇：所有不能闭环的辉煌都是暂时的](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247525837&idx=1&sn=336fc333a282801208341df4c8e81c3a&chksm=fd7bbbb01a5a0d94cc4e17ee72f790614371bd29ea8d2586b4b35a9d3dbeb7172ddcada93a9e&mpshare=1&scene=1&srcid=0513AdILDtpW9JITQWD62kRS&sharer_shareinfo=98d23fd22bd45b096c4a40fbc3613ea4&sharer_shareinfo_first=98d23fd22bd45b096c4a40fbc3613ea4) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [文远知行 CEO 韩旭分享自动驾驶创业历程](https://mp.weixin.qq.com/s/w0Gol9DHVHnCpg72ba1_Xw) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
