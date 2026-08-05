@@ -1,0 +1,10 @@
+# EP.62 未能归档的链接（2026-08-05）
+
+- [李开复 x 杨晓磊：创业这一场，我过得了灵魂拷问](https://mp.weixin.qq.com/s?__biz=MzkwMjUxNTkwNQ==&mid=2247634334&idx=1&sn=9f53ca53132cad7049392ef598129368) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 创业一年复盘：第一次 Build 的成就感，是创业最大的幻觉](https://mp.weixin.qq.com/s?__biz=MzIwMjU0NzM4NQ==&mid=2247483832&idx=1&sn=f4e6d3fa493a281fd7e4c0516decd1ed&chksm=97cff4f1745b4bddc76165165f626da806a6d812c44663e5747617fbab5df646f25d82139923&mpshare=1&scene=1&srcid=0630FtxsCkIAwue5v8BIfOmq&sharer_shareinfo=7688ea6cf9efc4943e886bb2f15e08ad&sharer_shareinfo_first=7688ea6cf9efc4943e886bb2f15e08ad) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [X 上 40 万粉丝的神秘大佬 Serenity：一个 AI 工程师如何成为「散户神话](https://mp.weixin.qq.com/s?__biz=Mzk2NDQ4MjExMQ==&mid=2247484131&idx=1&sn=72392ce721f130cd59af708bca3002c0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [五月硅谷调研有感](https://mp.weixin.qq.com/s?__biz=MzI4OTA4ODE5MA==&mid=2649277186&idx=1&sn=399f1a740b5c29f4a25dc88a4256a7ae&chksm=f5c351984ad97b7f387dd39dbf6a144e807fe191fdb0d5c9207b9f45e663ead4f3ce5ab8b067&mpshare=1&scene=1&srcid=0623TbM1KXFI1LP3cAkBLO3B&sharer_shareinfo=62a4d40dae368244aad59f2717e0b2d9&sharer_shareinfo_first=62a4d40dae368244aad59f2717e0b2d9) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [体检 10 年，不如做个健康 AI 38 天](https://mp.weixin.qq.com/s/pmlz-ptGOpWpCUb_rphrnw) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [月薪 6 千，宝妈们正在自我「蒸馏](https://mp.weixin.qq.com/s?__biz=MjM5OTg4NTUwMw==&mid=2665118308&idx=1&sn=f46702b5d1bfcf5efa19a3d33b402114) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [奥特曼综艺首秀封神，13 名硅谷大佬玩狼人杀，太有看头了](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247617824&idx=1&sn=ce335d98d92decc6e1ecb1f66fa34cbd&chksm=969b1413e834170b3c1f8773732f9ea2218745501bb9c88bb9a239d4439998bac42c3201e846&mpshare=1&scene=1&srcid=0622WjVe29c1OijdPYcXz4hJ&sharer_shareinfo=0b91df1ad86b34a59c3c49ec42e452e8&sharer_shareinfo_first=0b91df1ad86b34a59c3c49ec42e452e8) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我每天做 8 小时家务，给机器人当燃料](https://mp.weixin.qq.com/s?__biz=Mzk0MDYyMDA0NQ==&mid=2247492980&idx=1&sn=2cc7c3353df8eaa64f2371c4251d227a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
