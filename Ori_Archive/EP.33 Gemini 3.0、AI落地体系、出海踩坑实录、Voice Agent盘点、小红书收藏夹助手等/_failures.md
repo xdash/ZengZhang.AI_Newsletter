@@ -1,0 +1,21 @@
+# EP.33 未能归档的链接（2026-08-06）
+
+- [从「最蠢的想法」到年收入 1 亿美元：Gamma 的逆袭之路](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247491309&idx=1&sn=e53e13fea284b185bae0c6e56b5f18db) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [50 家企业实战证明：真正的机会藏在「落地体系」里](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247609373&idx=1&sn=0c591658c3c58e5fdfaa319e967759f9) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [做出 5000 万月活的 LBS 社交爆款 Foursquare 后，他在 AirPods 上重做 AI 社交](https://mp.weixin.qq.com/s?__biz=MzA3NTQ4NjczNw==&mid=2650675175&idx=1&sn=d3856af7496f8844e214e7e68b6ee40a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Agent 出海踩坑实录](https://mp.weixin.qq.com/s?__biz=Mzk0MDYyMDA0NQ==&mid=2247490368&idx=1&sn=486c6811ba356f5631cea678b627977f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [00 后 AI 明星初创 Cluely CEO 谈传播：初创公司死于无人发现](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247511203&idx=1&sn=3142faf90a6df01afd433fc80460545c) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Cursor 危险了！Google 暴杀 24 亿收购团队，一夜推出最强 AI 编程神器](https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451428085&idx=1&sn=ab6e989f11fd59ff3166f6a223708988) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [独立五年，荣耀给手机行业画了条新起跑线](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653711434&idx=1&sn=a06c442739772ef7e67d81bdecf71949) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [腾讯新老游戏一齐增长，AI 加速融入微信](https://36kr.com/p/3552438568942722?f=rss) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [腾讯总裁剧透微信搭载智能体！阿里和谷歌也都开始互相伤害了](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247843279&idx=3&sn=3f60d531e53638ed1f3510327037c446) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [阿里为什么一定要做千问 APP？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091204&idx=1&sn=4dec16622c2acb9928051b736ab40e6e) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [从内化 AI 能力开始，重估百度 | 甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247547546&idx=1&sn=59600ce5198935dca1e8121e4b47318f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [单月涨粉超 38 万，「大头针」的爆火只是 AI 歌手席卷华语乐坛的开始](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648138212&idx=1&sn=9d67df6c5a52d526e75866d34c639cbe) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 团灭的行业，多了一个](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247498150&idx=1&sn=c3e2f1e2d1bf3751bed5fed6812881df) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [中国医生需要怎样的 AI？GPT-5、OpenEvidence 都输掉实战后，我们有了答案](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651001296&idx=1&sn=78d62d43ee387cb0bde8fc512dbfb64b) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 不懂痛苦，却成了你的深夜知己！170 位医生教 ChatGPT 安慰人](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652645440&idx=3&sn=23d26b2775f3d3bf0bca446da57ec684) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [美的「喊话」互联网对手](https://mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650656706&idx=1&sn=d89bd7c0ad5aae9551280189c99346de) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [历时近 100 天，专业导演拍的 AI 短片是什么样的？](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648137975&idx=1&sn=423f643b30a9f368c9a519058d5833af) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [首个 AI 神作！一人分饰全角，万人围观外星人嘲讽人类灭绝](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652646732&idx=3&sn=dd7b3ca316363fd4edc84e62ebb9190d) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [盘点：2025 年最值得关注的 18 家 AI Voice Agent 创业公司](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649101085&idx=1&sn=a558a9ffc130a8ae9f0a7d37848867a9) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
