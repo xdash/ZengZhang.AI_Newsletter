@@ -1,0 +1,146 @@
+# GitHub - hardhackerlabs/podwise-cli: CLI client for podwise.ai — turn any podcast episode into AI-powered insights, designed for use in AI agents and skills workflows.
+
+> 原链: https://github.com/hardhackerlabs/podwise-cli  
+> 来源: github.com · 归档自 EP.50 · 抓取于 2026-08-05  
+
+---
+
+![podwise](/hardhackerlabs/podwise-cli/raw/main/assets/podwise.png)
+
+
+CLI client for [podwise.ai](https://podwise.ai) — turn any podcast episode into AI-powered insights, designed for use in AI agents and skills workflows.
+
+Podwise transforms hours of podcasts into transcripts, summaries, outlines, Q&A, and mind maps. This CLI is purpose-built as a **tool for AI agents** — letting LLMs, skills runtimes, and automation pipelines fetch structured podcast insights without a browser or human in the loop.
+
+- 🤖 Looking for ready-to-use agent skills? Jump to [Agent Skills](#agent-skills) →
+- 🔌 Looking for mcp server? Jump to [MCP Server](#mcp-server) →
+
+`brew install hardhackerlabs/podwise-tap/podwise`
+Run the following command to install the latest version of `podwise`:
+
+`curl -sL https://raw.githubusercontent.com/hardhackerlabs/podwise-cli/main/install.sh | sh`
+1. Download the latest binary for your OS and architecture from [GitHub Releases](https://github.com/hardhackerlabs/podwise-cli/releases) .
+2. Unpack the archive (e.g., `tar -xzf podwise_linux_amd64.tar.gz` ).
+3. Move the `podwise` binary to a directory in your PATH, for example:mv podwise /usr/local/bin/
+4. Make sure it's executable: `chmod +x /usr/local/bin/podwise` .
+
+If you have Go installed, you can build and install the binary directly from the source:
+
+```
+git clone https://github.com/hardhackerlabs/podwise-cli.git
+cd podwise-cli
+go build -o podwise .
+# Move the binary to a directory in your PATH, e.g.,
+mv podwise /usr/local/bin/
+```
+Authorize the CLI in your browser and let it save the API key automatically:
+
+```
+# Open the browser authorization flow
+podwise auth
+# Verify connection
+podwise config show
+```
+If you already have an API key, you can still set it manually:
+
+`podwise config set api_key your-sk-xxxx`
+The configuration is stored at `~/.config/podwise/config.toml`.
+
+`podwise popular````
+# Ask a question answered from podcast transcripts
+podwise ask "the future of AI Agents"
+```
+```
+# Search episodes by title keywords
+podwise search episode "machine learning" --limit 20
+# Search podcasts by name
+podwise search podcast "Lex Fridman"
+```
+```
+# Podwise episode URL (Recommended)
+podwise process https://podwise.ai/dashboard/episodes/7360326
+# 小宇宙 episode URL 
+podwise process https://www.xiaoyuzhoufm.com/episode/abc123
+# Youtube video URL
+podwise process https://www.youtube.com/watch?v=d0-Gn_Bxf8s
+# local file
+podwise process ./episode.mp3
+```
+```
+# Get summary
+podwise get summary https://podwise.ai/dashboard/episodes/7360326
+# Get transcript
+podwise get transcript <episode-url>
+```
+For more details on all available commands and flags, run:
+
+`podwise --help`
+**Prerequisites:** Before installing skills, make sure you have completed the [Installation](#installation) and [Configuration](#configuration) steps above — the `podwise` CLI must be installed and your `api_key` must be set.
+
+
+The Podwise skill routes your intent to the right workflow automatically:
+
+| Workflow | What it does | 
+|---|---|
+| **catch-up** | Catch up on missed episodes from podcasts you follow | 
+| **weekly-recap** | Generate a weekly listening recap with highlights | 
+| **episode-notes** | Export episode summaries and highlights to Notion, Obsidian, or Logseq | 
+| **topic-research** | Research a topic across multiple podcast episodes | 
+| **episode-debate** | Challenge and stress-test ideas from an episode | 
+| **language-learning** | Generate Anki flashcards from a transcript | 
+| **discover** | Get personalised podcast recommendations based on your taste | 
+| **refine-taste** | Build your listener profile for personalised outputs | 
+
+When you ask the agent something related to podcasts, it:
+
+1. Loads Podwise CLI reference docs
+2. Matches your intent to the right workflow (if applicable)
+3. Loads and executes the workflow steps, or runs the CLI command directly
+
+`npx skills add hardhackerlabs/podwise-cli`
+You can also build your own skills on top of the `podwise` CLI to create custom workflows that fit your needs.
+
+Podwise exposes all its capabilities as an [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server, allowing AI assistants (Gemini CLI, Claude Desktop, Cursor, etc.) to search episodes, process media, and retrieve AI-generated content directly as tools.
+
+Start the MCP server (communicates over stdin/stdout):
+
+`podwise mcp`
+The server exposes the following tools:
+
+| Tool | Description | 
+|---|---|
+| `search_episode` | Search for podcast episodes by title keywords | 
+| `search_podcast` | Search for podcasts by name | 
+| `popular` | List current trending/popular podcast episodes | 
+| `process` | Submit a YouTube / 小宇宙 / Podwise URL or local file for AI processing | 
+| `get_transcript` | Fetch the full transcript (text / SRT / VTT) | 
+| `get_summary` | Fetch the AI-generated summary and key takeaways | 
+| `get_qa` | Fetch AI-extracted Q&A pairs | 
+| `get_chapters` | Fetch the chapter breakdown with timestamps | 
+| `get_mindmap` | Fetch the AI-generated mind map | 
+| `get_highlights` | Fetch notable highlights with timestamps | 
+| `get_keywords` | Fetch topic keywords with descriptions | 
+| `ask` | Ask the AI a question answered from podcast transcripts | 
+| `drill` | List recent episodes for a specific podcast by its Podwise URL | 
+| `follow` | Follow a podcast by its Podwise URL (idempotent) | 
+| `unfollow` | Unfollow a podcast by its Podwise URL (idempotent) | 
+| `list_episodes` | List recent episodes from podcasts you follow, filterable by date or day range | 
+| `list_podcasts` | List followed podcasts with new episodes, filterable by date or day range | 
+| `history_read` | List episodes you have read, sorted by most recent first | 
+| `history_listened` | List episodes you have listened, sorted by most recent first | 
+
+1. 
+Make sure `podwise` is installed and configured (see[Installation](#installation) and[Configuration](#configuration) ).
+2. 
+Add the following to your settings file:
+
+```
+{
+  "mcpServers": {
+    "podwise": {
+      "command": "podwise",
+      "args": ["mcp"]
+    }
+  }
+}
+```
