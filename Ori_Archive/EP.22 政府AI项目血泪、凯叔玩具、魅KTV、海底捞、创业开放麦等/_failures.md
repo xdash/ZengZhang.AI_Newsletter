@@ -1,0 +1,21 @@
+# EP.22 未能归档的链接（2026-08-06）
+
+- [做政府 AI 项目三大血泪教训（含 YouTube 原视频）](https://mp.weixin.qq.com/s?__biz=MzE5OTE3NTEyMA==&mid=2247484877&idx=1&sn=9327ad80ea2a095f66315ad80e6cc52a&chksm=97402b07097f5bb2f3bd8960c6c822641997b249eafdd5bdc3805cb74b3d903cc416d7f7dd54&mpshare=1&scene=1&srcid=0902NPoqH3SpxLdREZAClRoi&sharer_shareinfo=219c5f4da3bd2aa305214e7bf9ec6383&sharer_shareinfo_first=219c5f4da3bd2aa305214e7bf9ec6383) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [出货 1000 万台硬件后，我们和「凯叔讲故事」聊了聊「AI玩具」的核心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085988&idx=1&sn=e98c420bce3bf6a66440bd9e825ad034) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [多知的报道](https://mp.weixin.qq.com/s?__biz=MzU1Mjc4NjM4Mg==&mid=2247581258&idx=1&sn=0c10358abae99f670af9ffabba2425a2&chksm=fa48c86327c9e38eba59abe9c670aea1d67f71865475950170c26e87817591f9b73f30d401e7&mpshare=1&scene=1&srcid=0901nbFqToFTlDiBvtHTNms0&sharer_shareinfo=ae7c280b32038bc23c5eb9ddb6c22fe1&sharer_shareinfo_first=ae7c280b32038bc23c5eb9ddb6c22fe1) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [充分利用 Mac 的生产力，我在海底捞看到了不一样的「可能性](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247597037&idx=2&sn=07812b30adb0593989b0661a82dea8ac&chksm=fcc8ee938c1b64721f8d3e8fa88a27d4ff0821a51af1cf03cd989d979bf0678afd27af5de5d8&mpshare=1&scene=1&srcid=0903vb0K8uh6XkfNHC0N8OIS&sharer_shareinfo=a26e58df537c35a0712999133262fd1f&sharer_shareinfo_first=a26e58df537c35a0712999133262fd1f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [从增长黑客到最强 Suno 用户：灵活就业乐队的诞生（播客）](https://www.xiaoyuzhoufm.com/episode/68af08a497178f08eef569ad) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [我曾经做过播客对谈的老朋友王博龙](https://www.xiaoyuzhoufm.com/episode/647d93556752b5f9defaec82) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [国务院「AI+」行动计划全解读](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247606721&idx=2&sn=aa9b16d9e21850a7e8d1bfa93a23ca8a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [2025 年第 15 场 AI 开放麦：十字路口和 AI 创业者们聊到了这些](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649097504&idx=1&sn=814794ea2530039c81522bf4d76089ac) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [量子位 AI Agent 沙龙实录 - RockFlow 创始人：投资是见自己的过程](https://mp.weixin.qq.com/s/hY1Gcym8OvK7VTmdo09G0Q) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [融资 1.5 亿后｜独家对话 Sola 创始人：AI 要快落地，先跑这 5 个关键场景](https://mp.weixin.qq.com/s/HcUfwQ0s_zs2A9UhGkdQew) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Claude for Chrome 浏览器扩展](https://mp.weixin.qq.com/s?__biz=Mzg5Njc3MDcyNQ==&mid=2247533333&idx=1&sn=b7724cdae24e123febc39d122b00e31d) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [1](https://mp.weixin.qq.com/s/RuQC0ZTQ-EybwXAQneIyQA) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [2](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085987&idx=1&sn=ded140b6c4e499d2bc986055a1e01a6f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [3](https://mp.weixin.qq.com/s/IBWC-9RfoZR8IZtaf6KEDA) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [电骡快跑，Mulerun 想做 AI 淘宝](https://mp.weixin.qq.com/s?__biz=Mzk4ODYxNDE2OQ==&mid=2247484070&idx=1&sn=fc851c4b8e497e3a3c6ebb6056225300&chksm=c4a94f318ff13710fe613edfd15bcc87536543462b54827b891bb701945aa76013cb9673df70&mpshare=1&scene=1&srcid=0902FD6IxDVnOswuH3YjWgh5&sharer_shareinfo=aa5b5661e3f3a575193bd709e785ab4a&sharer_shareinfo_first=aa5b5661e3f3a575193bd709e785ab4a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [硅谷 AI 大转弯与二级市场的牛市](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651051006&idx=1&sn=fa531cf4225697b7ebbcc13e783b0265) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [这份报告](https://mp.weixin.qq.com/s?__biz=Mzk0NTYzNDQ5NQ==&mid=2247512331&idx=1&sn=2923f61175772513963f46a115a790d6) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [2025 年 IA40 榜单](https://mp.weixin.qq.com/s?__biz=Mzg4Nzc3NjY0Mw==&mid=2247495621&idx=1&sn=0afcc8653fbd3b2f884f1cec7dcc06da) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [DeepSeek 炒股，坑惨牛市股民](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497515&idx=1&sn=accaf135b9ff937658a875b0a7616ef8) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
