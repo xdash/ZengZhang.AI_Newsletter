@@ -1,0 +1,22 @@
+# EP.21 未能归档的链接（2026-08-06）
+
+- [AI 小镇模拟的这场社会实验里，东亚玩家还是那么爱内卷](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647674395&idx=1&sn=35bcf2c0dd9e51b9565da89b7219fdff&poc_token=HDrdrmijYfI84DEugplyhuoU72yt18IepXjlWoSI) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 外教产品 Praktika 如何用 30 人小团队实现 2000 万美元年收入？](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648136505&idx=1&sn=db4962d14218e0dd7e4841b0f03966ac&poc_token=HNbYrmijFoTPl0r3i108CKDyul0g90TXev7BT2O9) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 创业者 Koji 的 15 个洞察与社群实践](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247606578&idx=1&sn=4a10fbc1e352a67a0e140e4cc1e1ffe6&poc_token=HI_crmijo4ClgBjZ0SGhLp6ihCEDss3bpR_tboov) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [采访「独响」王登科：推出「响梦环」，29 元现货 12 秒卖空](https://mp.weixin.qq.com/s?__biz=Mzg4Nzc3NjY0Mw==&mid=2247495199&idx=1&sn=63fe207b2c1070eb69baa9216dbd030e&poc_token=HMeGrmijBvrIsJeycTCg4mLm6rweeIMoBCPAHd_G) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [这期创始人访谈](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691560240&idx=1&sn=5c31e8c971b8fe67a351f4b7e5fd819c&poc_token=HCiLrmijBCVZV3Ms3VNkENEwoI-Bd_GcffWZJHJH) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [突然冻结 AI 部门招聘](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085336&idx=1&sn=27fb52ca2fadd03e008f1f46688f0eec&poc_token=HLOLrmij5HwoRoedcxjZZvMHm1hCb16JNzDGujFL) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [向军工产业转型，发战争财](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247497504&idx=1&sn=1e8fe32b72a03968354379cc3adff3c7&poc_token=HKDQrmijk1GEChOPBeee8XBQYO7kVeuBelBlUd-t) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [访谈](https://36kr.com/p/3440493817468553?f=rss) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [推出了彻底重构的 AI 钉钉 1.0](https://mp.weixin.qq.com/s?__biz=MTkwNDMzMTcwMQ==&mid=2651970241&idx=1&sn=9041208e4b98dd57011335b84fcefdd0&poc_token=HCVyrmijd03qOWYPWc2dnX87ey15eyeEro1aCEt3) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [DingTalk A1](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649097108&idx=1&sn=9ec0c6ff19bd59f9170a33250e90b480&chksm=82a7fb6eaa36fc69fb003e048f47915d9b3a7768927516c324057b78b8d3cf474c8e624b343a&mpshare=1&scene=1&srcid=08279LLFKDGWXrkWIP4htACh&sharer_shareinfo=91af102f7c5783631c556682c7e32b93&sharer_shareinfo_first=91af102f7c5783631c556682c7e32b93) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 表格](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648136633&idx=1&sn=012ed50a7b0d3dab8b914089d0636650) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [独立发布](https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451427295&idx=1&sn=ab648cc967d018a0234b16df6ff92c96&poc_token=HM94rmijyQrCMqVeRXxKp4oLdF3FAQFUPImQPejX) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [在政务领域，如何打造一个「能干活」的 AI Agent](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651919067&idx=3&sn=a5da8c483ed4900bf3cbfac57192f90e&poc_token=HH50rmijNPGbdA_BRtd_N43LXt69jW22pgiiIeqm) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Harvey 是专为法律行业设计的 AI 应用](https://mp.weixin.qq.com/s?__biz=MzA3MDU4ODkyNg==&mid=2247510747&idx=1&sn=b5a2f1a6029993946b4deb3f1f005548&poc_token=HHV9rmijwjDlErZkNe22b2XxZSkfq17v37xl4CJg) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [这个 Newsletter 背后的 AI 系统](https://zerodaybook.mikecrm.com/LjEzDNf) — ego-browser 回退抓取失败: ego-browser failed: Error: Runtime.evaluate timed out; expression: (() => {\n  const el = document.querySelector('.body.markup')\n    || document.querySelector('article')\n    || d
+- [公](https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451427225&idx=1&sn=5d36e0cb1ac2ad003c7308e45b4ed0c6&poc_token=HI12rmijclDgTafDCr1qtQCKfZPYwLbWIUs4Fuqi) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [关](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&mid=2247491631&idx=1&sn=dd3abbb4b842164021a76431151959c3&poc_token=HCF5rmijP2H3yPeWMvPg1oxqLqFJM-U1dohuhEj0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [稿](https://www.bilibili.com/video/BV1Q7YfzDEqg/) — 该类型链接（播客/视频/社媒）不支持纯文本归档
+- [中文速看版](https://mp.weixin.qq.com/s?__biz=Mzk0NTYzNDQ5NQ==&mid=2247512202&idx=2&sn=136b01be38329e069ed441a4a1a976cd&poc_token=HMZ_rmijCxBmT_4q8sF9nFud6UY8lAawmG1hCxCP) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 换脸成本](https://mp.weixin.qq.com/s?__biz=MjM5ODM0OTcwMQ==&mid=2651965561&idx=1&sn=943f1d3fef19200801970a5833878a21&poc_token=HNh3rmij4UKEDHs3ENLz3piR8diNWMbzososRquu) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
