@@ -1,4 +1,4 @@
-# EP.66 未能归档的链接（2026-08-05）
+# EP.66 未能归档的链接（2026-08-06）
 
 - [ARR超 3 亿美元，Liblib 冕神反而说 AI 应用时代还没来](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247537780&idx=1&sn=de843ca22fb82e3b2d3b94cca5973593) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
 - [从大厂裸辞后，两个月写出 30 万行代码后的思考](https://mp.weixin.qq.com/s?__biz=MzU4MDg1NzIzNw==&mid=2247483838&idx=1&sn=cd967e713390953252a26887037fc996) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
