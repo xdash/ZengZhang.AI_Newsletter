@@ -1,4 +1,4 @@
-# EP.64 未能归档的链接（2026-08-05）
+# EP.64 未能归档的链接（2026-08-06）
 
 - [AI 的正确打开方式：不学概念，学动作](https://www.bilibili.com/video/BV1mZM86WEqY) — 该类型链接（播客/视频/社媒）不支持纯文本归档
 - [AI 时代的第一批赢家，都答对了这个 0.02% 的真问题](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247493195&idx=1&sn=cdf0cbd50c52da54be217d64b8039618) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
