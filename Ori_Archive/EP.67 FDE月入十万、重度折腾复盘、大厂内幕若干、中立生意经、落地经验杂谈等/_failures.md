@@ -1,0 +1,21 @@
+# EP.67 未能归档的链接（2026-08-06）
+
+- [硅谷工程师眼中的 AI 创业下半场](https://mp.weixin.qq.com/s?__biz=MzkyNDEzOTAzNg==&mid=2247487925&idx=1&sn=0f257c001dbb27ee9d22343600883592) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI应用的「二房东」困局](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247631326&idx=1&sn=246cd251e4dabe91570a79a1ea9d23a4) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [大厂 AI 办公换战场的内幕若干](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247537832&idx=1&sn=d9a795ebff15c009b503ee63ae9c8d2f&chksm=fd050b7a278dd4927f777c875cfc608ff18bbfa1332a379ebf6108e75758e5b6b2fd8000131c) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [21个定时雷达、5000 篇自建库：一个重度用户的两个月 AI 折腾复盘](https://mp.weixin.qq.com/s?__biz=MzIzMzM2Mjk5OQ==&mid=2247484756&idx=1&sn=7f99ce91d735f07f35b9fb1a145e012b&chksm=e9227be73dcda345038afe92a0e82f1ff5bad6dd2dd189eef4cdbaa3b566fb2fa522c777bd07) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [呼兰当「临时 CEO」：用 AI 把月亏 12 万的脱口秀俱乐部做到盈利 7 万](https://mp.weixin.qq.com/s?__biz=MzA4MDMwNjcxNg==&mid=2648348730&idx=1&sn=80b71ad7170e4845c7fa8d02a13e41ea) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [硅谷 pitch 现场：不吹模型，全在讲自己行业落地之痛](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247495025&idx=1&sn=92d7d6498b9669ceaf27092f46d41c50) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [被 A 厂封禁，月活反而从 250 万暴涨到 1300 万：OpenCode 的中立生意经](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247525470&idx=1&sn=205576340ca805cc94f0d4e3f04b105f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [FDE月入十万的主要工作：告诉老板「世界上已经有汽车了](https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247500406&idx=1&sn=1c505df4efbe8ca6bf1ff7e298ca83e6) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [不卷角色卷「小镇」：这款 AI 陪伴产品月流水 98 万美元](https://mp.weixin.qq.com/s?__biz=MzYzNTkyMTI2Ng==&mid=2247575405&idx=1&sn=f7020fa433ae373534b0f0405fded71e) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [深度 | 外宾 Genspark](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247631520&idx=1&sn=040eaafcab32ba3cfeeac0390760b802&chksm=c3f61b13a679c7a7a0b4ec36de42d2921f163bbe33dd9ef598ea4d4f1b1479eb0eefef577116) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMTc3MQ==&mid=2247493298&idx=1&sn=76c0f386d66c349ebb8368034df0bb34) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [梁文锋青年往事：八万本金、一台菲亚特和一个人的长征](https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw==&mid=2247491841&idx=1&sn=a248ac7f6bb9129ce83d798d9bfc4ca6&chksm=c0379407df80de918c3b5b2b52a5290f9fe7f48f0013370444b715fb3b7352c7b22e6981e222) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [AI 终于带来了新职业 FDE，这个活阿里是怎么干的](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650735339&idx=1&sn=05ec00ffa82e1ed7a12c1816784b9a46) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我在大厂，四处「活水](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653253396&idx=1&sn=9c4527802f7b6e84993bd6e191e9ccb0) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [最近的大厂人，恨透了它](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654907059&idx=3&sn=71d75c753338aa59b820104449e5a64a) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [瞄准家庭协作痛点，两个前大厂员工用三周做出日程管理小程序](https://mp.weixin.qq.com/s?__biz=MzU1Mjc4NjM4Mg==&mid=2247590945&idx=1&sn=2a7041b6ff16575095d2bc396a6543ba) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [我用 AI 谈恋爱](https://mp.weixin.qq.com/s?__biz=MzkzMTI3MTUyMw==&mid=2247523671&idx=1&sn=2845ef04292cdd0bc6e624b9dba05cbf) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [为了和 AI 谈恋爱，她们给 AI 手搓身体、开发长期记忆系统，甚至发展到了「见家长](https://mp.weixin.qq.com/s?__biz=MzA3NzUxMzQ5Mw==&mid=2648145785&idx=1&sn=da3844b6841bcba24a12acd44341df8f) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
+- [Karpathy's Pelican](https://twitter.com/karpathy/status/2083749667410727319) — 该类型链接（播客/视频/社媒）不支持纯文本归档
