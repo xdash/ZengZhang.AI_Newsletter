@@ -1,4 +1,4 @@
-# EP.65 未能归档的链接（2026-08-05）
+# EP.65 未能归档的链接（2026-08-06）
 
 - [旧金山的讲台，上海的展台：中美 AI 各自在押什么](https://mp.weixin.qq.com/s?__biz=MzY4NTMyNDc0Mw==&mid=2247483980&idx=1&sn=c848bc8e6767bcc45be657bede927149&chksm=f21aa2b1fac528fca0c73dca72ca201a98320888c77c2fccd5bcf971cdd109a1ffe2a92b1c70&mpshare=1&scene=1&srcid=0722iakgSZ7QG41aWMpTDVcI&sharer_shareinfo=5188669406f769ae6d4420e2c6344adc&sharer_shareinfo_first=bcb0b43aac4b32e4ef532fa152e17159) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
 - [梁文锋四小时投资人会议实录](https://mp.weixin.qq.com/s?__biz=MzYzNTA3NTgwNQ==&mid=2247484342&idx=1&sn=29aa89b2273c2d2eccdfc77b92a3b35e&chksm=f1ef9e768d2b604fae251f322aa1d335f6777d2c7ee93849d03e61794e54ecc816bdadd12dd2&mpshare=1&scene=1&srcid=07221jcImu52OWM4crnmxK6b&sharer_shareinfo=95ecd0550432f49ca90efdb0b0565ad7&sharer_shareinfo_first=d01ae07cb57c564be1d0d9e83b185aaf) — 微信连接不通（疑 IP 被临时封禁），待后续统一补抓
