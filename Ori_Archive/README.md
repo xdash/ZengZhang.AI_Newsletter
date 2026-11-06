@@ -2,6 +2,10 @@
 
 增长黑客 AI 周报每期推荐外链的原文归档（资源推荐栏目除外）。
 
+## EP.74 硅谷疯人院、一人AI公司、卡兹克开源系统、顶流博主干货、数据江湖、原生组织、新职业等
+
+- [_failures](Ori_Archive/EP.74%20%E7%A1%85%E8%B0%B7%E7%96%AF%E4%BA%BA%E9%99%A2%E3%80%81%E4%B8%80%E4%BA%BAAI%E5%85%AC%E5%8F%B8%E3%80%81%E5%8D%A1%E5%85%B9%E5%85%8B%E5%BC%80%E6%BA%90%E7%B3%BB%E7%BB%9F%E3%80%81%E9%A1%B6%E6%B5%81%E5%8D%9A%E4%B8%BB%E5%B9%B2%E8%B4%A7%E3%80%81%E6%95%B0%E6%8D%AE%E6%B1%9F%E6%B9%96%E3%80%81%E5%8E%9F%E7%94%9F%E7%BB%84%E7%BB%87%E3%80%81%E6%96%B0%E8%81%8C%E4%B8%9A%E7%AD%89/_failures.md)
+
 ## EP.73 Manus改造Manus、伪FDE坑县城老板、AI写书赚百万、Google Labs经验、Codex复盘等
 
 - [_failures](Ori_Archive/EP.73%20Manus%E6%94%B9%E9%80%A0Manus%E3%80%81%E4%BC%AAFDE%E5%9D%91%E5%8E%BF%E5%9F%8E%E8%80%81%E6%9D%BF%E3%80%81AI%E5%86%99%E4%B9%A6%E8%B5%9A%E7%99%BE%E4%B8%87%E3%80%81Google%20Labs%E7%BB%8F%E9%AA%8C%E3%80%81Codex%E5%A4%8D%E7%9B%98%E7%AD%89/_failures.md)
